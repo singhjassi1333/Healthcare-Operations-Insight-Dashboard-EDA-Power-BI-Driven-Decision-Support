@@ -83,7 +83,7 @@ This interactive dashboard delivers a clear snapshot of key healthcare metrics, 
 - Dashboard **screenshots** and the **.pbix file** are available in the `assets` folder for easy reference.  
 
 ## Dashboard Preview
-![image](https://drive.google.com/uc?export=view&id=1aqil2cj4tn5M7c8Xuu_1nTVVEz01cOLD)
+![image]([https://drive.google.com/uc?export=view&id=1aqil2cj4tn5M7c8Xuu_1nTVVEz01cOLD])
 
 
 If you have any suggestions or feedback, Contact direct message on LinkedIn and Email: Singhjassi1333@gmail.com and [Linkedin](https://www.linkedin.com/in/jasmeet-singh-malhotra-429642108/)
