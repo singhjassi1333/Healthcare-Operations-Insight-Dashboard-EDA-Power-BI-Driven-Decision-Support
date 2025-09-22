@@ -83,7 +83,8 @@ This interactive dashboard delivers a clear snapshot of key healthcare metrics, 
 - Dashboard **screenshots** and the **.pbix file** are available in the `assets` folder for easy reference.  
 
 ## Dashboard Preview
-![image](https://drive.google.com/uc?export=view&id=1aqil2cj4tn5M7c8Xuu_1nTVVEz01cOLD)
+
+[![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1aqil2cj4tn5M7c8Xuu_1nTVVEz01cOLD)](https://drive.google.com/file/d/1aqil2cj4tn5M7c8Xuu_1nTVVEz01cOLD/view?usp=drive_link)
 
 
 
